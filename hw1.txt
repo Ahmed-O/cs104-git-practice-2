@@ -1,0 +1,27 @@
+Problem 1
+
+Part a:
+	It is acceptable to look up to information relevant to the course online (#1), to ask the course staff for help(#4), and to copy testcases from my classmates or Piazza when test cases are not graded(#8).
+
+Part b:
+	It is recommended to not use basic editing software like gedit and notepad, but it is fine to use emacs, Eclipse, sublime, or Microsoft Visual Studio.
+
+Part c:
+	The late submission policy is that 4 grace days can be used throughout the semester but a maximum of 3 grace days can be used per assignment.	
+
+Part d:
+	After submitting a late submission, you should use the normal submission system and also start your next assigment earlier.
+
+
+Problem 2
+
+Part a:
+	The git terminal(linux) is used and supported in this course.
+
+Part b:
+	1. git add hw1q2b.cpp
+	2. git log -p -3
+
+Part c:
+	
+	
